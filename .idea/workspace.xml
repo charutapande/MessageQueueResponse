@@ -31,25 +31,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/charuta.pande/Downloads/MessageQueueResponse&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;ecce3722a087a362fd8b9ce0e7d92e27&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/charuta.pande/Downloads/MessageQueueResponse-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
+    "spring.configuration.checksum": "ecce3722a087a362fd8b9ce0e7d92e27",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Maven.Consumer1">
+}]]></component>
+  <component name="RunManager" selected="Maven.Consumer">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="MessageQueueResponse" />
       <method v="2">
@@ -103,7 +103,7 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
-    <configuration name="Consumer1" type="MavenRunConfiguration" factoryName="Maven">
+    <configuration name="Consumer" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings">
@@ -200,7 +200,7 @@
     <list>
       <item itemvalue="Maven.ActiveMQRunner" />
       <item itemvalue="Maven.Publisher" />
-      <item itemvalue="Maven.Consumer1" />
+      <item itemvalue="Maven.Consumer" />
       <item itemvalue="Spring Boot.MessageApplication" />
       <item itemvalue="Spring Boot.MessageConsumerApplication" />
     </list>
@@ -215,7 +215,7 @@
       <updated>1677952815809</updated>
       <workItem from="1677952817205" duration="1766000" />
       <workItem from="1677955476420" duration="234000" />
-      <workItem from="1677958360814" duration="260000" />
+      <workItem from="1677958360814" duration="477000" />
     </task>
     <servers />
   </component>
