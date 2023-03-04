@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActiveMQRunner/ActiveMQRunner.iml" filepath="$PROJECT_DIR$/ActiveMQRunner/ActiveMQRunner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MessageConsumer/MessageConsumer.iml" filepath="$PROJECT_DIR$/MessageConsumer/MessageConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MessageQueueResponse.iml" filepath="$PROJECT_DIR$/.idea/MessageQueueResponse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MessagePublisher/messagePublisher.iml" filepath="$PROJECT_DIR$/MessagePublisher/messagePublisher.iml" />
+    </modules>
+  </component>
+</project>
